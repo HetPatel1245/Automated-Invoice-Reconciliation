@@ -1,0 +1,11 @@
+Transaction ID,Date,Debit,Credit,Description,Type
+TXN-001,2026-04-01,1500.00,,Client Payment - ABC Corp,debit
+TXN-002,2026-04-02,,500.00,Office Supplies Purchase,credit
+TXN-003,2026-04-03,2500.00,,Quarterly Revenue,debit
+TXN-004,2026-04-04,,750.00,Vendor Payment,credit
+TXN-005,2026-04-05,3000.00,,Client Invoice Settlement,debit
+TXN-006,2026-04-06,,1200.00,Utilities Bill,credit
+TXN-007,2026-04-07,500.00,,Refund Received,debit
+TXN-008,2026-04-08,,2000.00,Salary Payment,credit
+TXN-009,2026-04-09,1250.00,,Service Revenue,debit
+TXN-010,2026-04-10,,600.00,Equipment Purchase,credit
